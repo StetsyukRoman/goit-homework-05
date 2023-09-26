@@ -792,6 +792,8 @@ p {
     color: #8e8f99;
     font-family: inherit;
     font-size: 12px;
+    width: 10px;
+    height: 8px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     margin-bottom: 4px;
