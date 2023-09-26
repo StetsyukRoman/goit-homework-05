@@ -759,6 +759,8 @@ p {
 .model-close:focus,
 .icon-close:focus {
     fill: #FFFFFF;
+    background-color: #404BBF;
+    border: none;
 }
 
 .form-box {
