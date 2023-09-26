@@ -951,6 +951,11 @@ p {
     border-color: #404bbf;
 }
 
+.checkbox-svg {
+    width: 10px;
+    height: 8px;
+}
+
 .checkbox-policy {
     color: #8e8f99;
     font-size: 12px;
