@@ -756,6 +756,12 @@ p {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.model-close:hover,
+.icon-close:hover {
+    background-color: #404BBF;
+    border: none;
+}
+
 .model-close:focus,
 .icon-close:focus {
     fill: #FFFFFF;
